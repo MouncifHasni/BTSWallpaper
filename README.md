@@ -1,16 +1,26 @@
-# bts_wallpapers
+# 📱 BTS Wallpaper App
 
-A new Flutter project.
+A sleek and easy-to-use mobile app built with **Flutter** and **Firebase** that lets fans of **BTS** share, download, and set wallpapers of their favorite idols directly from their phones.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🖼️ **Browse HD BTS Wallpapers**  
+  Explore a curated collection of high-quality wallpapers featuring BTS members.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- ❤️ **Share Your Favorites**  
+  Upload and share your favorite BTS images with the fan community.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📲 **Set as Background**  
+  Instantly set any wallpaper as your phone’s background.
+
+- 💾 **Download to Device**  
+  Save your favorite images directly to your device's gallery.
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend**: Flutter + Dart  
+- **Backend & Storage**: Firebase
